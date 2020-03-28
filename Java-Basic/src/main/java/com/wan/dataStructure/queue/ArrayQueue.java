@@ -1,6 +1,7 @@
-package com.wan.datastructure.queue;
+package com.wan.dataStructure.queue;
 
-import com.wan.datastructure.Array;
+
+import com.wan.dataStructure.construct.Array;
 
 /**
  * @项目名称：JAVA

@@ -1,4 +1,4 @@
-package com.wan.datastructure.construct;
+package com.wan.dataStructure.construct;
 
 /**
  * @项目名称：JAVA

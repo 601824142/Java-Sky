@@ -1,4 +1,4 @@
-package com.wan.datastructure.queue;
+package com.wan.dataStructure.queue;
 
 /**
  * @项目名称：JAVA

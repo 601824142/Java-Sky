@@ -1,4 +1,4 @@
-package com.wan.datastructure.stack;
+package com.wan.dataStructure.stack;
 
 /**
  * @项目名称：JAVA

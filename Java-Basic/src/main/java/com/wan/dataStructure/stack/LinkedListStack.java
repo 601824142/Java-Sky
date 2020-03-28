@@ -1,6 +1,7 @@
-package com.wan.datastructure.stack;
+package com.wan.dataStructure.stack;
 
-import com.wan.datastructure.LinkedList;
+
+import com.wan.dataStructure.construct.LinkedList;
 
 /**
  * @项目名称：JAVA

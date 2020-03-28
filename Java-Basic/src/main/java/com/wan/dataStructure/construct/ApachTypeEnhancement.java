@@ -1,4 +1,4 @@
-package com.wan.datastructure.construct;
+package com.wan.dataStructure.construct;
 
 
 import org.apache.commons.lang3.tuple.Pair;

@@ -1,6 +1,7 @@
-package com.wan.datastructure.stack;
+package com.wan.dataStructure.stack;
 
-import com.wan.datastructure.Array;
+
+import com.wan.dataStructure.construct.Array;
 
 /**
  * @项目名称：JAVA

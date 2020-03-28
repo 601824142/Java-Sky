@@ -1,8 +1,9 @@
-package com.wan.datastructure.construct;
+package com.wan.dataStructure.construct;
 
-import com.wan.stack.ArrayStack;
-import com.wan.stack.LinkedListStack;
-import com.wan.stack.Stack;
+
+import com.wan.dataStructure.stack.ArrayStack;
+import com.wan.dataStructure.stack.LinkedListStack;
+import com.wan.dataStructure.stack.Stack;
 
 import java.util.Random;
 

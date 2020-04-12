@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bdb3a47-4303-4273-af6c-6f5ed87b24f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Basic/Java基础.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Basic/Java基础.xmind" afterDir="false" />
-    </list>
+    <list default="true" id="1bdb3a47-4303-4273-af6c-6f5ed87b24f6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/Java-Basic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +13,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -59,7 +55,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="617" />
+    <option name="x" value="615" />
     <option name="y" value="60" />
     <option name="width" value="640" />
     <option name="height" value="1040" />
@@ -72,9 +68,54 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,20 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wan.dataTypeAndReferences.test.Test" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wan.dataTypeAndReferences.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="JavaBasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="java-basic" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wan.admin.JavaBasicApplication" />
@@ -128,11 +156,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -145,7 +168,10 @@
       <option name="presentableId" value="Default" />
       <updated>1585268215226</updated>
       <workItem from="1585268216422" duration="368000" />
-      <workItem from="1585319455058" duration="10725000" />
+      <workItem from="1585319455058" duration="11506000" />
+      <workItem from="1585662858259" duration="783000" />
+      <workItem from="1586051916591" duration="1000000" />
+      <workItem from="1586213817018" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1585350311247</created>
@@ -154,16 +180,37 @@
       <option name="project" value="LOCAL" />
       <updated>1585350311247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交">
+      <created>1585498702500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585498702500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交">
+      <created>1586053920885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586053920885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交">
+      <created>1586213828985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586213828985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11093000" />
+    <option name="totallyTimeSpent" value="13693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24932976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23391421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -171,8 +218,6 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="6" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Sequence" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -182,13 +227,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" visible="true" weight="0.509915" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" weight="0.7181303" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.509915" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
-      <window_info anchor="right" id="Jms Messenger" />
+      <window_info anchor="bottom" id="Sequence" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,6 +248,7 @@
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
       <window_info anchor="right" id="Alibaba Log Console" order="12" />
+      <window_info anchor="right" id="Jms Messenger" order="13" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,13 +263,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java</url>
-          <line>35</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java</url>
-          <line>63</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -231,20 +278,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Java-Basic/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.4/byte-buddy-1.10.4.jar!/net/bytebuddy/utility/JavaConstant.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="226">
+          <caret line="778" column="27" selection-start-line="778" selection-start-column="27" selection-end-line="778" selection-end-column="27" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/JDK8/jdk8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java" />
   </component>
   <component name="masterDetails">
     <states>

@@ -54,7 +54,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="615" />
     <option name="y" value="60" />
     <option name="width" value="640" />
@@ -80,37 +80,7 @@
             <path>
               <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wan" type="462c0819:PsiDirectoryNode" />
+              <item name="面试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +97,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -172,6 +142,8 @@
       <workItem from="1585662858259" duration="783000" />
       <workItem from="1586051916591" duration="1000000" />
       <workItem from="1586213817018" duration="36000" />
+      <workItem from="1587273725819" duration="400000" />
+      <workItem from="1587274147423" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1585350311247</created>
@@ -205,12 +177,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13693000" />
+    <option name="totallyTimeSpent" value="14701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23391421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23257373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -235,6 +207,7 @@
       <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
       <window_info anchor="bottom" id="Sequence" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Translation Assistant" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -278,12 +251,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Java-Basic/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.4/byte-buddy-1.10.4.jar!/net/bytebuddy/utility/JavaConstant.class">
       <provider selected="true" editor-type-id="text-editor">

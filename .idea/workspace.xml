@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bdb3a47-4303-4273-af6c-6f5ed87b24f6" name="Default Changelist" comment="提交">
-      <change beforePath="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="1bdb3a47-4303-4273-af6c-6f5ed87b24f6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/Java-Basic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="512">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="method#bubbleSort#0;class#AlgorithmMain#0" />
                 <element signature="method#biSearch#0;class#AlgorithmMain#0" />
@@ -232,7 +230,7 @@
       <workItem from="1587274147423" duration="1206000" />
       <workItem from="1587393259411" duration="3905000" />
       <workItem from="1587397472594" duration="2297000" />
-      <workItem from="1587475982006" duration="4362000" />
+      <workItem from="1587475982006" duration="4764000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1585350311247</created>
@@ -269,15 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587423719568</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="提交">
+      <created>1587483586352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587483586352</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25863000" />
+    <option name="totallyTimeSpent" value="26265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22184986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,7 +293,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21104816" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41359773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46600565" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,8 +382,8 @@
     <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java" />
     <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="512">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="method#bubbleSort#0;class#AlgorithmMain#0" />
             <element signature="method#biSearch#0;class#AlgorithmMain#0" />

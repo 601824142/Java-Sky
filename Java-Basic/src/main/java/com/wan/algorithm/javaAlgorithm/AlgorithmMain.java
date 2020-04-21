@@ -16,21 +16,51 @@ public class AlgorithmMain {
 
         int[] arrays = new int[] {1,3,4,2};
 
-        bubbleSort(arrays);
+        insertSort(arrays);
 
         System.out.println( Arrays.toString( arrays ) );
     }
 
 
+    /**
+     * 插入排序算法
+     * @param arrays
+     */
+    private static void insertSort(int[] arrays)
+    {
+        for(int i =1;i<arrays.length;i++)
+        {
+            //插入的数
+            int num = arrays[i];
+
+            //被插入的位置(准备和前一个数比较)
+            int index = i-1;
+
+            //如果插入的数比被插入的数小
+            while(index>=0&&num<arrays[index])
+            {
+                //将把 arr[index] 向后移动
+                arrays[index+1]=arrays[index];
+                //让 index 向前移动
+                index--;
+            }
+            //把插入的数放入合适位置
+            arrays[index+1]=num;
+        }
+    }
 
 
-
+    /**
+     * 冒泡排序
+     * @param array 数组
+     */
     public static void bubbleSort(int [] array)
     {
         //当小于排序值时
-        for(int i=0; i<array.length; i++)
+        int i,j;
+        for(i=0; i<array.length; i++)
         {
-            for(int j=0; j<array.length-i; j++)
+            for(j=0; j<array.length-i-1; j++)
             {
                 //前面的数字大于后面的数字就交换
                 if(array[j] > array[j+1])
@@ -42,10 +72,6 @@ public class AlgorithmMain {
             }
         }
     }
-
-
-
-
 
 
 

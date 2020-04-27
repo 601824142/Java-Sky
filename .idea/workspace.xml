@@ -16,15 +16,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java">
+        <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/jvm/HeapOOM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="425">
+              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
-                <element signature="method#bubbleSort#0;class#AlgorithmMain#0" />
-                <element signature="method#biSearch#0;class#AlgorithmMain#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,6 +51,7 @@
       <list>
         <option value="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java" />
         <option value="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java" />
+        <option value="$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/jvm/HeapOOM.java" />
       </list>
     </option>
   </component>
@@ -83,75 +83,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wan" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Sky" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Sky" type="462c0819:PsiDirectoryNode" />
-              <item name="Java-Basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wan" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="javaAlgorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +97,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="jprofiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -184,13 +118,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgorithmMain">
+  <component name="RunManager" selected="Application.HeapOOM">
     <configuration name="AlgorithmMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wan.algorithm.javaAlgorithm.AlgorithmMain" />
       <module name="java-basic" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wan.algorithm.javaAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wan.jvm.HeapOOM" />
+      <module name="java-basic" />
+      <option name="VM_PARAMETERS" value="-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wan.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,8 +154,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AlgorithmMain" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Spring Boot.JavaBasicApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapOOM" />
         <item itemvalue="Application.AlgorithmMain" />
       </list>
     </recent_temporary>
@@ -231,6 +186,8 @@
       <workItem from="1587393259411" duration="3905000" />
       <workItem from="1587397472594" duration="2297000" />
       <workItem from="1587475982006" duration="4764000" />
+      <workItem from="1587771509921" duration="626000" />
+      <workItem from="1587772158422" duration="3075000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1585350311247</created>
@@ -274,16 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1587483586352</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交">
+      <created>1587829488827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587829488828</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26265000" />
+    <option name="totallyTimeSpent" value="29966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22184986" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22050938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -291,9 +255,10 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="6" />
       <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="JProfiler" weight="0.3526912" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41359773" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28611898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46600565" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,17 +318,23 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/jvm/HeapOOM.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Java-Basic/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.4/byte-buddy-1.10.4.jar!/net/bytebuddy/utility/JavaConstant.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -382,11 +353,21 @@
     <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/dataTypeAndReferences/test/Test.java" />
     <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/algorithm/javaAlgorithm/AlgorithmMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="722">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="method#bubbleSort#0;class#AlgorithmMain#0" />
             <element signature="method#biSearch#0;class#AlgorithmMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Basic/src/main/java/com/wan/jvm/HeapOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
